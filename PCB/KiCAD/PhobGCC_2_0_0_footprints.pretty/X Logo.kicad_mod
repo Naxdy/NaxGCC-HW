@@ -1,0 +1,56 @@
+(footprint "X Logo" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0c426c26-43c6-42a0-a2b0-62a059f061a9)
+  )
+  (fp_text value "X Logo" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c1f49290-b3d3-4dca-8644-e3ca0841e0f5)
+  )
+  (fp_poly
+    (pts
+      (xy -54.86668 69.09636)
+      (xy -90.799519 69.09636)
+      (xy -78.318699 41.607133)
+      (xy -42.385861 41.607133)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 05926973-5db2-421c-9bad-61aa8dfba4dc))
+  (fp_poly
+    (pts
+      (xy -14.463459 69.158036)
+      (xy -50.416554 69.158036)
+      (xy 13.279987 -72.733625)
+      (xy 49.233082 -72.733625)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp d071f600-8225-4c10-ba29-85c48d8b8777))
+  (fp_poly
+    (pts
+      (xy 77.348072 -45.233695)
+      (xy 41.415241 -45.233695)
+      (xy 53.896061 -72.722932)
+      (xy 89.828892 -72.722932)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 320d1531-dd7f-4547-ad4b-5ece5b8d911e))
+  (fp_poly
+    (pts
+      (xy 87.404377 69.311753)
+      (xy 47.274998 69.311753)
+      (xy -88.552435 -72.579944)
+      (xy -48.423054 -72.579944)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 3bb76e63-d48d-4db9-8793-063831a82f6d))
+  (group "" (id 3d8dba82-6a4c-44f5-b67c-4d77d44e8e22)
+    (members
+      05926973-5db2-421c-9bad-61aa8dfba4dc
+      320d1531-dd7f-4547-ad4b-5ece5b8d911e
+      3bb76e63-d48d-4db9-8793-063831a82f6d
+      d071f600-8225-4c10-ba29-85c48d8b8777
+    )
+  )
+)
