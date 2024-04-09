@@ -1,5 +1,15 @@
 # NaxGCC-HW
 
+The main repository is located at [git.naxdy.org](https://git.naxdy.org/NaxdyOrg/NaxGCC-HW). The GitHub mirror exists solely for the sake of discoverability and redundancy.
+
+> **Please do not submit issues or pull requests on GitHub.**
+
+Find the latest releases here: https://git.naxdy.org/NaxdyOrg/NaxGCC-HW/releases
+
+Full documentation is available at [gcc.naxdy.org](https://gcc.naxdy.org/).
+
+---
+
 Seperate repository for the hardware used in the NaxGCC
 
 The NaxGCC board is licensed under CERN Open Hardware Licence Version 2 - Strongly Reciprocal.
