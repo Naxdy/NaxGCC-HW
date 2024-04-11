@@ -8,6 +8,8 @@ Find the latest releases here: https://git.naxdy.org/NaxdyOrg/NaxGCC-HW/releases
 
 Full documentation is available at [gcc.naxdy.org](https://gcc.naxdy.org/).
 
+Join the NaxGCC matrix chat at [#naxgcc:naxdy.org](https://matrix.to/#/#naxgcc:naxdy.org) to discuss development or ask for help.
+
 ---
 
 Seperate repository for the hardware used in the NaxGCC
